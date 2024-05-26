@@ -10,7 +10,7 @@ A simple To-Do list application built with Flutter.
 - Delete tasks
 - Filter tasks (All, Active, Completed)
 
-## Screenshots
+## App's fotos
 
 ![Home Screen](images/ToDoListApp.png)
 
